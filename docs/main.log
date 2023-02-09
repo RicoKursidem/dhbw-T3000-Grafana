@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.26)  30 JAN 2023 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.26)  7 FEB 2023 06:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,18 +448,18 @@ Package: babel 2022/10/23 3.82 The Babel package
 \bbl@readstream=\read3
 \bbl@dirlevel=\count390
 
-(c:/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 108.
-))
-(c:/texlive/2022/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
+(c:/texlive/2022/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2021/02/27 v2.13 German support for babel (pre-1996 orthograph
+y)
+
+(c:/texlive/2022/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
+hy)
+Package babel Info: Making " an active character on input line 139.
+)))
+(c:/texlive/2022/texmf-dist/tex/generic/babel/locale/de/babel-german.tex
+Package babel Info: Importing font and identification data for german
+(babel)             from babel-de-1901.ini. Reported on input line 25.
 )
 (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1369,7 +1369,7 @@ Package biblatex Warning: Load 'inputenc' before biblatex.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
+Package csquotes Info: Redefining alias 'default' -> 'german'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 5.
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
@@ -1395,21 +1395,11 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-Package scrbase Info: activating english \partname on input line 5.
-Package scrbase Info: activating english \chaptername on input line 5.
-Package scrbase Info: activating english \appendixname on input line 5.
-Package scrbase Info: activating english \figurename on input line 5.
-Package scrbase Info: activating english \tablename on input line 5.
-Package scrbase Info: activating english \contentsname on input line 5.
-Package scrbase Info: activating english \listfigurename on input line 5.
-Package scrbase Info: activating english \listtablename on input line 5.
-Package scrbase Info: activating english \bibname on input line 5.
-Package scrbase Info: activating english \indexname on input line 5.
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -1502,7 +1492,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 9
  (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.toc
-Package cleveref Info: loaded `english' language definitions on input line 1.
+Package cleveref Info: loaded `german language definitions on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
 .
 
@@ -1541,7 +1531,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 ] (./main.lof
-Package cleveref Info: loaded `english' language definitions on input line 1.
+Package cleveref Info: loaded `german language definitions on input line 1.
 )
 \tf@lof=\write8
 \openout8 = `main.lof'.
@@ -1572,99 +1562,101 @@ Class scrbook Warning: \float@addtolists detected!
 
 ]
 chapter 2.
-
-Overfull \hbox (12.59631pt too wide) in paragraph at lines 35--36
-\T1/lmr/m/n/12 und Auswerten von Daten ange-fer-tigt wer-den kön-nen. Grafna bi
--etet hi-erzu eine zugängliche
- []
-
 [2
 
 
 ]
-Package cleveref Info: loaded `english' language definitions on input line 37.
+Package cleveref Info: loaded `german language definitions on input line 47.
  [3]
 chapter 3.
-<res/mssql_einbinden.png, id=83, 951.555pt x 185.19188pt>
+<res/mssql_einbinden.png, id=83, 950.80219pt x 176.91093pt>
 File: res/mssql_einbinden.png Graphic file (type png)
 <use res/mssql_einbinden.png>
-Package pdftex.def Info: res/mssql_einbinden.png  used on input line 48.
-(pdftex.def)             Requested size: 951.55267pt x 185.1914pt.
-<res/nodered.png, id=85, 777.65532pt x 278.54062pt>
-File: res/nodered.png Graphic file (type png)
-<use res/nodered.png>
-Package pdftex.def Info: res/nodered.png  used on input line 63.
-(pdftex.def)             Requested size: 777.65343pt x 278.53993pt.
+Package pdftex.def Info: res/mssql_einbinden.png  used on input line 58.
+(pdftex.def)             Requested size: 950.79987pt x 176.91049pt.
 [4
 
 
  <./res/mssql_einbinden.png>]
-<res/transformation.png, id=93, 263.48438pt x 177.66376pt>
-File: res/transformation.png Graphic file (type png)
-<use res/transformation.png>
-Package pdftex.def Info: res/transformation.png  used on input line 77.
-(pdftex.def)             Requested size: 263.48372pt x 177.66331pt.
-Package cleveref Info: loaded `english' language definitions on input line 87.
- [5 <./res/nodered.png> <./res/transformation.png>]
-<res/teilensymbol.png, id=100, 15.05624pt x 15.05624pt>
-File: res/teilensymbol.png Graphic file (type png)
-<use res/teilensymbol.png>
-Package pdftex.def Info: res/teilensymbol.png  used on input line 92.
-(pdftex.def)             Requested size: 15.0562pt x 15.0562pt.
+<res/nodered.png, id=91, 938.50626pt x 339.2675pt>
+File: res/nodered.png Graphic file (type png)
+<use res/nodered.png>
+Package pdftex.def Info: res/nodered.png  used on input line 70.
+(pdftex.def)             Requested size: 938.50397pt x 339.26666pt.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-4.
- (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+8.
+
+(c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package cleveref Info: loaded `english' language definitions on input line 119.
+Package cleveref Info: loaded `german language definitions on input line 99.
+ [5 <./res/nodered.png>]
+<res/teilensymbol.png, id=102, 15.05624pt x 15.05624pt>
+File: res/teilensymbol.png Graphic file (type png)
+<use res/teilensymbol.png>
+Package pdftex.def Info: res/teilensymbol.png  used on input line 102.
+(pdftex.def)             Requested size: 15.0562pt x 15.0562pt.
+Package cleveref Info: loaded `german language definitions on input line 129.
 
- [6 <./res/teilensymbol.png>]
-<res/annotaitons.png, id=109, 806.26219pt x 286.06876pt>
+[6 <./res/teilensymbol.png>]
+<res/annotaitons.png, id=112, 806.26219pt x 286.06876pt>
 File: res/annotaitons.png Graphic file (type png)
 <use res/annotaitons.png>
-Package pdftex.def Info: res/annotaitons.png  used on input line 132.
+Package pdftex.def Info: res/annotaitons.png  used on input line 142.
 (pdftex.def)             Requested size: 806.26022pt x 286.06805pt.
-Package cleveref Info: loaded `english' language definitions on input line 141.
-
+Package cleveref Info: loaded `german language definitions on input line 150.
  [7 <./res/annotaitons.png>]
-Package cleveref Info: loaded `english' language definitions on input line 141.
-
+Package cleveref Info: loaded `german language definitions on input line 159.
  [8]
+chapter 4.
+[9
+
+
+]
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.144 \end{document}
+l.168 \end{document}
                      [1
 
 
 
 ] (./main.aux
-Package cleveref Info: loaded `english' language definitions on input line 25.
+Package cleveref Info: loaded `german language definitions on input line 26.
 )
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47946 strings out of 475071
- 1028467 string characters out of 5782907
- 1727973 words of memory out of 5000000
- 68668 multiletter control sequences out of 15000+600000
- 507523 words of font info for 50 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 108i,11n,108p,10619b,2292s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 48027 strings out of 475071
+ 1029104 string characters out of 5782907
+ 1728363 words of memory out of 5000000
+ 68744 multiletter control sequences out of 15000+600000
+ 511785 words of font info for 51 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 108i,11n,108p,10619b,2213s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2022/tex
 mf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr17.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/20
-22/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (12 pages, 281492 bytes).
+b><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2022/texmf-dist/font
+s/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (13 pages, 287411 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
+ 212 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

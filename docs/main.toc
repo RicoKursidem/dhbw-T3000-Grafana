@@ -1,4 +1,4 @@
-\babel@toc {english}{}\relax 
+\babel@toc {german}{}\relax 
 \contentsline {chapter}{\numberline {1}Einführung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Technische Grundlagen}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Docker}{2}{section.2.1}%
@@ -6,10 +6,11 @@
 \contentsline {section}{\numberline {2.3}Grafana}{3}{section.2.3}%
 \contentsline {chapter}{\numberline {3}Funktionsanalyse}{4}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Einbinden von Datenquellen}{4}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Interaktion zwischen Grafen}{6}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Filterungen durch Variablen}{6}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.2}Interaktion zwischen Grafen}{5}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Filterungen durch Variablen}{5}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Links}{6}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Annotationen}{7}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3.3}Berechtigungen und Rollenkonzepte}{8}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Erscheinungsbild und Design}{8}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Fazit}{9}{chapter.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
