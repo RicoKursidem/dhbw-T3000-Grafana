@@ -28,9 +28,9 @@
     \strng{fullhash}{s1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{howpublished}{Grafana Labs}
+  \field{howpublished}{\url{https://community.grafana.com/t/config-from-query-result-multiple-thresholds/74798}}
     \field{title}{Config from query result - multiple thresholds}
-    \field{year}{2022}
+    \field{year}{Online; accessed 02.02.2023}
   \endentry
 
   \entry{GrafanaLabs:Variables}{misc}{}
@@ -44,9 +44,41 @@
     \strng{fullhash}{G1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{howpublished}{Grafana Labs}
+  \field{howpublished}{\url{https://grafana.com/docs/grafana/latest/dashboards/variables/variable-syntax/}}
     \field{title}{Variable syntax}
-    \field{year}{2022}
+    \field{year}{Online; accessed 02.02.2023}
+  \endentry
+
+  \entry{GrafanaLabs:GrafanaLabs}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={Grafana},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://grafana.com/docs/grafana/latest/}}
+    \field{title}{Grafana Labs Documetation}
+    \field{year}{Online; accessed 07.03.2023}
+  \endentry
+
+  \entry{GrafanaLabs:GitHub}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={Grafana},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://github.com/grafana/grafana/issues}}
+    \field{title}{Grafana GitHub}
+    \field{year}{Online; accessed 07.03.2023}
   \endentry
 \enddatalist
 \endinput

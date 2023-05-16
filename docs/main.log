@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.26)  7 FEB 2023 06:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.26)  21 MAR 2023 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1540,6 +1540,20 @@ Package cleveref Info: loaded `german language definitions on input line 1.
 
 
 ]
+(./main.lot
+Package cleveref Info: loaded `german language definitions on input line 1.
+)
+\tf@lot=\write9
+\openout9 = `main.lot'.
+
+ [4
+
+
+] [1
+
+
+
+]
 chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
@@ -1556,68 +1570,74 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface.
 
-[1
-
-
-
-]
-chapter 2.
 [2
 
 
 ]
-Package cleveref Info: loaded `german language definitions on input line 47.
- [3]
+chapter 2.
+[3
+
+
+]
+Package cleveref Info: loaded `german language definitions on input line 81.
+ [4]
 chapter 3.
-<res/mssql_einbinden.png, id=83, 950.80219pt x 176.91093pt>
+<res/mssql_einbinden.png, id=106, 950.80219pt x 176.91093pt>
 File: res/mssql_einbinden.png Graphic file (type png)
 <use res/mssql_einbinden.png>
-Package pdftex.def Info: res/mssql_einbinden.png  used on input line 58.
+Package pdftex.def Info: res/mssql_einbinden.png  used on input line 92.
 (pdftex.def)             Requested size: 950.79987pt x 176.91049pt.
-[4
+[5
 
 
  <./res/mssql_einbinden.png>]
-<res/nodered.png, id=91, 938.50626pt x 339.2675pt>
+<res/nodered.png, id=113, 938.50626pt x 339.2675pt>
 File: res/nodered.png Graphic file (type png)
 <use res/nodered.png>
-Package pdftex.def Info: res/nodered.png  used on input line 70.
+Package pdftex.def Info: res/nodered.png  used on input line 104.
 (pdftex.def)             Requested size: 938.50397pt x 339.26666pt.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-8.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+31.
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Package cleveref Info: loaded `german language definitions on input line 99.
- [5 <./res/nodered.png>]
-<res/teilensymbol.png, id=102, 15.05624pt x 15.05624pt>
+Package cleveref Info: loaded `german language definitions on input line 132.
+ [6 <./res/nodered.png>]
+<res/teilensymbol.png, id=124, 15.05624pt x 15.05624pt>
 File: res/teilensymbol.png Graphic file (type png)
 <use res/teilensymbol.png>
-Package pdftex.def Info: res/teilensymbol.png  used on input line 102.
+Package pdftex.def Info: res/teilensymbol.png  used on input line 135.
 (pdftex.def)             Requested size: 15.0562pt x 15.0562pt.
-Package cleveref Info: loaded `german language definitions on input line 129.
+Package cleveref Info: loaded `german language definitions on input line 162.
 
-[6 <./res/teilensymbol.png>]
-<res/annotaitons.png, id=112, 806.26219pt x 286.06876pt>
+[7 <./res/teilensymbol.png>]
+<res/annotaitons.png, id=134, 806.26219pt x 286.06876pt>
 File: res/annotaitons.png Graphic file (type png)
 <use res/annotaitons.png>
-Package pdftex.def Info: res/annotaitons.png  used on input line 142.
+Package pdftex.def Info: res/annotaitons.png  used on input line 175.
 (pdftex.def)             Requested size: 806.26022pt x 286.06805pt.
-Package cleveref Info: loaded `german language definitions on input line 150.
- [7 <./res/annotaitons.png>]
-Package cleveref Info: loaded `german language definitions on input line 159.
- [8]
+Package cleveref Info: loaded `german language definitions on input line 183.
+ [8 <./res/annotaitons.png>]
+Package cleveref Info: loaded `german language definitions on input line 193.
+ [9]
 chapter 4.
-[9
+[10
 
 
 ]
+Overfull \hbox (21.8162pt too wide) in paragraph at lines 201--201
+[]\T1/lmr/m/n/12 Grafana. \T1/lmr/m/it/12 Va-ria-ble syn-tax\T1/lmr/m/n/12 . []
+$\T1/lmtt/m/n/12 https : / / grafana . com / docs / grafana / latest / dashboar
+ds /
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.168 \end{document}
+l.202 \end{document}
                      [1
 
 
@@ -1640,23 +1660,24 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48027 strings out of 475071
- 1029104 string characters out of 5782907
- 1728363 words of memory out of 5000000
- 68744 multiletter control sequences out of 15000+600000
- 511785 words of font info for 51 fonts, out of 8000000 for 9000
- 1143 hyphenation exceptions out of 8191
+ 48073 strings out of 475071
+ 1030184 string characters out of 5782907
+ 1729066 words of memory out of 5000000
+ 68776 multiletter control sequences out of 15000+600000
+ 514783 words of font info for 52 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
  108i,11n,108p,10619b,2213s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2022/tex
-mf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/public/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr17.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2022
-/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2022/texmf-dist/font
-s/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (13 pages, 287411 bytes).
+mf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type
+1/public/lm/lmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.p
+fb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2022/texmf-dist/fonts/
+type1/public/lm/lmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/
+lmtt12.pfb>
+Output written on main.pdf (15 pages, 318724 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
  155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

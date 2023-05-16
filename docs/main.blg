@@ -19,58 +19,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
 Database file #2: bibliography.bib
-I was expecting a `,' or a `}'---line 17 of file bibliography.bib
- :  
- :  note = {Online; accessed 02.02.2023},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 35 of file bibliography.bib
- :  
- :  note = {Online; accessed 02.02.2023},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Biblatex version: 3.18
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
+You've used 5 entries,
             6399 wiz_defined-function locations,
-            1213 strings with 9150 characters,
-and the built_in function-call counts, 7826 in all, are:
-= -- 408
-> -- 212
-< -- 35
-+ -- 153
-- -- 70
-* -- 385
-:= -- 884
+            1223 strings with 9573 characters,
+and the built_in function-call counts, 14296 in all, are:
+= -- 754
+> -- 376
+< -- 69
++ -- 261
+- -- 116
+* -- 737
+:= -- 1422
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 14
+call.type$ -- 5
+change.case$ -- 28
 chr.to.int$ -- 42
-cite$ -- 4
-duplicate$ -- 763
-empty$ -- 781
-format.name$ -- 86
-if$ -- 1700
+cite$ -- 8
+duplicate$ -- 1527
+empty$ -- 1463
+format.name$ -- 184
+if$ -- 3128
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 12
 missing$ -- 0
-newline$ -- 52
-num.names$ -- 76
-pop$ -- 701
+newline$ -- 84
+num.names$ -- 164
+pop$ -- 1359
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 40
 quote$ -- 0
-skip$ -- 367
+skip$ -- 679
 stack$ -- 0
-substring$ -- 559
-swap$ -- 181
-text.length$ -- 56
+substring$ -- 949
+swap$ -- 361
+text.length$ -- 92
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 90
+type$ -- 158
 warning$ -- 0
-while$ -- 128
+while$ -- 196
 width$ -- 0
-write$ -- 50
-(There were 2 error messages)
+write$ -- 80
